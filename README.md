@@ -31,8 +31,8 @@
 ## 安裝
 
 ```powershell
-git clone <這個 repo 的網址>
-cd buzz
+git clone https://github.com/jdfiss/buzzbot.git
+cd buzzbot
 python -m venv .venv
 .venv\Scripts\pip.exe install -r requirements.txt
 ```
