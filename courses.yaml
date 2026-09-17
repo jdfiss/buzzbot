@@ -1,0 +1,21 @@
+courses:
+  OS:
+    name: 作業系統
+    mode: STUDY
+    language: zh
+  STAT:
+    name: 統計學
+    mode: STUDY
+    language: zh
+  ALGO:
+    name: 演算法
+    mode: STUDY
+    language: zh
+  MGMT:
+    name: 管理學
+    mode: SURVIVAL
+    language: zh
+  ECON:
+    name: 經濟學
+    mode: SURVIVAL
+    language: zh

@@ -1,0 +1,17 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.claude/
+
+# 執行期產生的個人紀錄（含真實 Telegram chat_id、本機路徑），不進版控
+pending_jobs.json
+
+# Local Bot API Server：第三方執行檔 + 執行期的 session/log 資料，不進版控
+bot-api-server/
+
+# 錄音本體與轉錄產物不進版控，只留目錄結構
+pending/*
+!pending/.gitkeep
+courses/*/
+inbox/
